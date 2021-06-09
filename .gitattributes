@@ -2,7 +2,6 @@ $ cat .gitattributes
 
 *.* linguist-language=Kotlin
 
-*.kt linguist-detectable=true
 *.cs linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
