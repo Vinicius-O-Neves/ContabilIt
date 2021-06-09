@@ -1,0 +1,4 @@
+$ cat .gitattributes
+
+*.* linguist-language=Kotlin
+*.* linguist-language=Kotlin
