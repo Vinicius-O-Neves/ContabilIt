@@ -1,2 +1,3 @@
 # ContabilIt
-A Kotlin accounting-app that provides a simple way to do the some parts of the accounting of a business
+Accounting application in Kotlin that provides a simple way to perform the
+HR registration and accounting of new employees in companies
