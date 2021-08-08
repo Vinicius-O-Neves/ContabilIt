@@ -40,6 +40,7 @@ HR registration and accounting of new employees in companies</h2>
     <td>SQLite</td>
     <td>Firebase</td>
     <td>Coroutine</td>
+    <td>SharedPreferences</td>
   </tr>
     <tr>
     <td>https://kotlinlang.org/docs/home.html</td>
@@ -47,5 +48,6 @@ HR registration and accounting of new employees in companies</h2>
     <td>https://developer.android.com/training/data-storage/sqlite</td>
     <td>https://firebase.google.com/docs/auth/android/google-signin?hl=pt-br</td>
     <td>https://developer.android.com/kotlin/coroutines</td>
+    <td>https://developer.android.com/training/data-storage/shared-preferences</td>
   </tr>
 </table>
