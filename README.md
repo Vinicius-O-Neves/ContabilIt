@@ -1,6 +1,6 @@
 <div style="text-align:center"><img src="https://github.com/Vinicius-O-Neves/ContabilIt/blob/main/ic_launcher-playstore.png" height="200"/></div>
 
-<a href="https://play.google.com/store/apps/details?id=app.developervini.contabilit">Dowloand on play store</a>
+<a href="https://play.google.com/store/apps/details?id=app.developervini.contabilit">Download on play store</a>
 
 ###
 <h2>Accounting application in Kotlin that provides a simple way to perform the
